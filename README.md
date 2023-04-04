@@ -111,7 +111,7 @@
 <br>
 ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴅᴇᴘʟᴏʏ sʜɪᴢᴜᴋᴀ ᴍᴜsɪᴄ ᴏɴ sᴄᴀʟɪɴɢᴏ ɪɴᴛʀᴏᴅᴜᴄᴇᴅ ʙʏ 
         
-<p align="center"><a href="https://my.scalingo.com/deploy?template=https://github.com/its-star-boi/ShizukaXMusic"> <img src="https://cdn.scalingo.com/deploy/button.svg" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://my.scalingo.com/deploy?template=https://github.com/its-star-boi/CobraXMusic"> <img src="https://cdn.scalingo.com/deploy/button.svg" width="220" height="38.45"/></a></p>
     
 </details>
 
@@ -149,7 +149,7 @@
 <summary><b>ᴅᴇᴘʟᴏʏ ᴛᴏ ᴠᴘs</b></summary>
 <br>
 
-- Get your [Necessary Variables](https://github.com/its-star-boi/ShizukaXMusic/blob/main/sample.env)
+- Get your [Necessary Variables](https://github.com/SaneshXd/ShizukaXMusic/blob/main/sample.env)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
